@@ -10,3 +10,8 @@ vscode:
     - eamodio.gitlens
     - oderwat.indent-rainbow
     - withfig.fig
+ports:
+  - port: 3000
+    onOpen: ignore
+  - port: 4000
+    onOpen: ignore
