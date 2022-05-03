@@ -6,7 +6,7 @@ vscode:
   extensions:
     - esbenp.prettier-vscode
     - github.copilot
-    - howardzuo.vscode-favorites
+    - kdcro101.favorites
     - eamodio.gitlens
     - oderwat.indent-rainbow
     - withfig.fig
