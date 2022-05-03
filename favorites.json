@@ -1,0 +1,125 @@
+[
+    {
+        "type": "Group",
+        "name": "ui",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "hBcO71XRT9GSfw3P",
+        "iconColor": "rgb(0, 128, 128)"
+    },
+    {
+        "type": "Directory",
+        "name": "/workspace/ucma-components/src/ui/components",
+        "parent_id": "hBcO71XRT9GSfw3P",
+        "workspaceRoot": "/workspace/ucma-components",
+        "workspacePath": "src/ui/components",
+        "id": "cvpbomaYeGSdALOF"
+    },
+    {
+        "type": "Directory",
+        "name": "/workspace/ucma-components/src/ui/hooks",
+        "parent_id": "hBcO71XRT9GSfw3P",
+        "workspaceRoot": "/workspace/ucma-components",
+        "workspacePath": "src/ui/hooks",
+        "id": "onH2VIcN6hbmFqCJ"
+    },
+    {
+        "type": "Directory",
+        "name": "/workspace/ucma-components/src/ui/modules",
+        "parent_id": "hBcO71XRT9GSfw3P",
+        "workspaceRoot": "/workspace/ucma-components",
+        "workspacePath": "src/ui/modules",
+        "id": "5RNagihjIopldKu4"
+    },
+    {
+        "type": "Directory",
+        "name": "/workspace/ucma-components/src/ui/templates",
+        "parent_id": "hBcO71XRT9GSfw3P",
+        "workspaceRoot": "/workspace/ucma-components",
+        "workspacePath": "src/ui/templates",
+        "id": "fMN1mZqz4LnYVOJ9"
+    },
+    {
+        "type": "Group",
+        "name": "models",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "XsvC3Il5TFtbKQgD",
+        "iconColor": "rgb(128, 0, 0)"
+    },
+    {
+        "type": "Directory",
+        "name": "/workspace/ucma-components/src/models/data",
+        "parent_id": "XsvC3Il5TFtbKQgD",
+        "workspaceRoot": "/workspace/ucma-components",
+        "workspacePath": "src/models/data",
+        "id": "sLc3fzxagTkvHoVO"
+    },
+    {
+        "type": "Directory",
+        "name": "/workspace/ucma-components/src/models/schemas",
+        "parent_id": "XsvC3Il5TFtbKQgD",
+        "workspaceRoot": "/workspace/ucma-components",
+        "workspacePath": "src/models/schemas",
+        "id": "X7OvxIQJiFkWaNLy"
+    },
+    {
+        "type": "Group",
+        "name": "stories",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "sTVz28i0KFoNeLOY",
+        "iconColor": "rgb(0, 0, 205)"
+    },
+    {
+        "type": "Directory",
+        "name": "/workspace/ucma-components/src/stories/components",
+        "parent_id": "sTVz28i0KFoNeLOY",
+        "workspaceRoot": "/workspace/ucma-components",
+        "workspacePath": "src/stories/components",
+        "id": "z4TJeZuBwi5QfmUD"
+    },
+    {
+        "type": "Directory",
+        "name": "/workspace/ucma-components/src/stories/core",
+        "parent_id": "sTVz28i0KFoNeLOY",
+        "workspaceRoot": "/workspace/ucma-components",
+        "workspacePath": "src/stories/core",
+        "id": "mgex7DTiMo5WYLku"
+    },
+    {
+        "type": "Directory",
+        "name": "/workspace/ucma-components/src/stories/design-system",
+        "parent_id": "sTVz28i0KFoNeLOY",
+        "workspaceRoot": "/workspace/ucma-components",
+        "workspacePath": "src/stories/design-system",
+        "id": "icVSF8n1GPxMO7hX"
+    },
+    {
+        "type": "Directory",
+        "name": "/workspace/ucma-components/src/stories/modules",
+        "parent_id": "sTVz28i0KFoNeLOY",
+        "workspaceRoot": "/workspace/ucma-components",
+        "workspacePath": "src/stories/modules",
+        "id": "W8lGapihqDuks5Uv"
+    },
+    {
+        "type": "Directory",
+        "name": "/workspace/ucma-components/src/stories/templates",
+        "parent_id": "sTVz28i0KFoNeLOY",
+        "workspaceRoot": "/workspace/ucma-components",
+        "workspacePath": "src/stories/templates",
+        "id": "2UYby3XpINeqaDf4"
+    },
+    {
+        "type": "Directory",
+        "name": "/workspace/ucma-components/src/stories/utils",
+        "parent_id": "sTVz28i0KFoNeLOY",
+        "workspaceRoot": "/workspace/ucma-components",
+        "workspacePath": "src/stories/utils",
+        "id": "MrnS7ofvQHjlckqW"
+    }
+]
